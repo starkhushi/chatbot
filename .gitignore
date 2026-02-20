@@ -15,4 +15,7 @@ build/
 *.log
 .DS_Store
 venv/
-node_modules/
+node_modules/venv/
+mongodb_data/
+__pycache__/
+.env
