@@ -1,0 +1,21 @@
+Asset_ID,Asset Name,Category,Purchase Date,Cost (INR),Book Value,Location
+AST-4000,Power Generator,IT Infrastructure,2021-08-06,"8,75,630","7,76,189",Gurgaon Site
+AST-4001,Soldering Station,Inventory,2021-11-22,"80,958","47,203",R&D Lab
+AST-4002,Power Generator,IT Infrastructure,2018-08-28,"23,32,454","13,01,832",R&D Lab
+AST-4003,Company Vehicle,IT Infrastructure,2018-06-24,"36,58,748","16,70,645",Noida Warehouse
+AST-4004,Power Generator,R and D Equipment,2019-08-23,"8,68,449","6,06,328",Gurgaon Site
+AST-4005,Lab Oscilloscope,Equipment,2024-10-23,"14,42,164","6,40,929",Gurgaon Site
+AST-4006,PCB Assembly Machine,R and D Equipment,2023-01-07,"15,258","5,483",Delhi HQ
+AST-4007,PCB Assembly Machine,R and D Equipment,2020-04-15,"28,21,647","18,43,817",Noida Warehouse
+AST-4009,PCB Assembly Machine,Equipment,2024-03-06,"6,94,817","5,35,051",R&D Lab
+AST-4010,Lab Oscilloscope,Fixed Asset,2021-08-21,"4,86,976","1,63,659",Gurgaon Site
+AST-4011,Power Generator,IT Infrastructure,2018-03-11,"39,56,421","32,20,335",Delhi HQ
+AST-4012,Office Laptop,Fixed Asset,2018-11-14,"18,51,170","8,56,563",Okhla Manufacturing Unit
+AST-4013,PCB Assembly Machine,IT Infrastructure,2022-08-26,"18,49,831","9,74,162",Gurgaon Site
+AST-4014,Soldering Station,IT Infrastructure,2019-03-13,"28,52,803","12,41,906",R&D Lab
+AST-4015,PCB Assembly Machine,Fixed Asset,2024-04-23,"19,99,413","11,29,844",R&D Lab
+AST-4016,Soldering Station,Inventory,2022-01-30,"49,28,495","29,10,130",Gurgaon Site
+AST-4017,Smart Meter Batch,Equipment,2020-05-07,"32,26,209","14,06,221",R&D Lab
+AST-4018,Soldering Station,R and D Equipment,2024-03-11,"8,10,900","4,89,646",Noida Warehouse
+AST-4019,Office Laptop,R and D Equipment,2018-12-09,"8,07,390","5,31,527",Delhi HQ
+AST-4020,Gateway Hub,Inventory,2022-02-15,"7,39,931","6,86,944",Okhla Manufacturing Unit

@@ -1,0 +1,21 @@
+Emp_ID,Name,Department,Base Salary,TDS Deducted,Net Pay,Last Paid Date
+RS-EMP-3000,Amit Kumar,R and D,"1,45,348","17,442","1,27,906",2024-11-30
+RS-EMP-3001,Neha Singh,Operations,"2,89,245","34,709","2,54,536",2024-11-30
+RS-EMP-3002,Suresh Verma,Human Capital,"1,72,462","20,695","1,51,767",2024-11-30
+RS-EMP-3003,Deepak Das,Manufacturing,"1,25,223","15,027","1,10,196",2024-11-30
+RS-EMP-3004,Vikram Das,IT Support,"91,855","11,023","80,832",2024-11-30
+RS-EMP-3005,Deepak Iyer,Human Capital,"3,25,571","39,069","2,86,502",2024-11-30
+RS-EMP-3006,Pooja Kumar,Sales,"1,01,677","12,201","89,476",2024-11-30
+RS-EMP-3007,Kiran Malhotra,IT Support,"2,26,903","27,228","1,99,675",2024-11-30
+RS-EMP-3008,Kiran Bansal,Operations,"1,20,240","14,429","1,05,811",2024-11-30
+RS-EMP-3009,Manish Patel,Sales,"89,843","10,781","79,062",2024-11-30
+RS-EMP-3010,Deepak Iyer,Sales,"3,13,810","37,657","2,76,153",2024-11-30
+RS-EMP-3011,Megha Sharma,Manufacturing,"1,16,795","14,015","1,02,780",2024-11-30
+RS-EMP-3012,Neha Patel,Sales,"1,76,380","21,166","1,55,214",2024-11-30
+RS-EMP-3013,Kavita Chopra,Manufacturing,"1,15,978","13,917","1,02,061",2024-11-30
+RS-EMP-3014,Amit Verma,Manufacturing,"1,15,703","13,884","1,01,819",2024-11-30
+RS-EMP-3015,Pooja Singh,R and D,"61,889","7,427","54,462",2024-11-30
+RS-EMP-3016,Arjun Aggarwal,Finance,"2,54,356","30,523","2,23,833",2024-11-30
+RS-EMP-3017,Priya Patel,Manufacturing,"2,47,765","29,732","2,18,033",2024-11-30
+RS-EMP-3018,Kiran Verma,IT Support,"2,32,127","27,855","2,04,272",2024-11-30
+RS-EMP-3019,Suresh Chopra,Sales,"67,349","8,082","59,267",2024-11-30

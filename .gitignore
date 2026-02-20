@@ -1,0 +1,17 @@
+.env
+mongodb_data/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.vscode/
+.idea/
+*.log
+.DS_Store
+venv/

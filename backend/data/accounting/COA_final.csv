@@ -1,0 +1,21 @@
+GL Code,Account Name,Account Type,Department,Normal Balance
+1000,Retained Earnings,Equity,Legal,Credit
+1001,Retained Earnings,Equity,R and D,Credit
+1007,Share Capital,Equity,Legal,Credit
+1013,Share Capital,Equity,Human Capital,Credit
+1002,Inventory - Finished Goods,Asset,R and D,Debit
+1010,Inventory - Raw Materials,Asset,Manufacturing,Debit
+1023,Bank Balance,Asset,R and D,Debit
+1029,Bank Balance,Asset,Marketing,Debit
+1003,Travel Expenses,Expense,Sales,Debit
+1012,Office Rent,Expense,IT Support,Debit
+1017,Salary Expense,Expense,R and D,Debit
+1019,Office Rent,Expense,Legal,Debit
+1004,Hardware Sales,Revenue,Legal,Credit
+1006,Subscription Income,Revenue,Sales,Credit
+1008,Maintenance Contract Income,Revenue,Legal,Credit
+1011,Consultancy Fees,Revenue,Human Capital,Credit
+1005,Accounts Payable,Liability,Legal,Credit
+1014,TDS Payable,Liability,Human Capital,Credit
+1016,Accounts Payable,Liability,Human Capital,Credit
+1018,GST Payable,Liability,Procurement,Credit

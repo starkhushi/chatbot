@@ -1,0 +1,21 @@
+Trans_ID,Date,GL_Code,Description,Debit (INR),Credit (INR),Project_ID
+TXN-4000,22-01-2024,1000,Safety Equipment - Cash & Bank,"5,27,680","5,15,438",DLF-GUR
+TXN-4001,22-01-2024,1001,Safety Equipment - Prepaid Expenses,"5,08,623","1,76,856",DLF-GUR
+TXN-4002,22-01-2024,1007,Purchase of PCBs - IoT Service Revenue,"70,200","3,59,583",SMT-CITY-DEL
+TXN-4003,22-01-2024,1013,R&D Prototype Material - Hardware Sales,"4,68,549","2,85,913",MFG-2024
+TXN-4004,22-01-2024,1002,Software License Renewal - IoT Service,"5,90,157","3,76,277",NTPC-GRID
+TXN-4005,22-01-2024,1010,Office Rent - Accrued Liabilities,"3,09,795","4,76,425",SMT-CITY-DEL
+TXN-4006,22-01-2024,1023,On-site Installation - Sensor Inventory,"8,81,440","8,24,008",RND-GATE
+TXN-4007,22-01-2024,1029,Vendor Remittance - Staff Welfare,"5,88,895","5,17,002",SMT-CITY-DEL
+TXN-4008,22-01-2024,1003,Purchase of PCBs - IoT Service Revenue,"5,74,591","5,06,564",GEN-OPS
+TXN-4009,22-01-2024,1012,Vendor Remittance - Sensor Inventory,"8,62,492","8,02,374",DLF-GUR
+TXN-4010,22-01-2024,1017,Office Rent - Lab Equipment Maint,"3,12,745","94,944",RELIANCE-GRID
+TXN-4011,22-01-2024,1019,Cloud Infrastructure - Prepaid Expenses,"54,677","3,09,766",RELIANCE-GRID
+TXN-4012,22-01-2024,1004,On-site Installation - Hardware Sales,"9,87,249","8,10,341",NTPC-GRID
+TXN-4013,22-01-2024,1006,Vendor Remittance - R&D Prototype Cost,"3,45,617","1,02,752",NTPC-GRID
+TXN-4014,22-01-2024,1008,Stationery Purchase - Long-term Bank Loans,"3,24,539","7,12,504",NTPC-GRID
+TXN-4015,22-01-2024,1011,Sensor Components - Salary Expense,"7,65,491","2,15,487",MFG-2024
+TXN-4016,22-01-2024,1005,Travel Reimbursement - Salary Expense,"4,89,752","8,24,561",GEN-OPS
+TXN-4017,22-01-2024,1014,R&D Prototype Material - Salary Expense,"6,54,321","9,12,345",DLF-GUR
+TXN-4018,22-01-2024,1016,Purchase of PCBs - Prepaid Expenses,"1,23,456","4,56,789",SMT-CITY-DEL
+TXN-4019,22-01-2024,1018,Safety Equipment - Vendor Payables,"7,89,012","3,21,098",RND-GATE
